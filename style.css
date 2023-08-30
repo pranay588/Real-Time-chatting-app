@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#message-container{
+    height: 100px;
+    width: 500px;
+    border: 1px solid mediumslateblue;
+}
